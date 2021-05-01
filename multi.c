@@ -33,5 +33,7 @@ int main(){
    	printf("%d\t", matC[i][j]);
 }
 printf("\n");
+
 }
+printf("Iam satya Sai Nallam");
 }
