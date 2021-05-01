@@ -1,5 +1,0 @@
-hi this
-is 
-a 
-temporary
-Appending txt to Temp.txt
